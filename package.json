@@ -2,7 +2,7 @@
   "name": "parcel-svelte-mocktimes-starter",
   "version": "1.0.0",
   "scripts": {
-    "start": "am-mocktimes watch --script-src main.js",
+    "start": "am-mocktimes watch",
     "test": "ava",
     "test:watch": "npm run test -- --watch",
     "dist": "run-s dist:*",
