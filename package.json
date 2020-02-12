@@ -59,7 +59,7 @@
       "esm"
     ],
     "files": [
-      "./src/**/*.test.js"
+      "**/*.test.js"
     ]
   },
   "lint-staged": {
