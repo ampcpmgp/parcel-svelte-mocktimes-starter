@@ -4,5 +4,5 @@
   import routes from './routes'
 </script>
 
-<Header name="World" />
+<Header text="Text" />
 <Router {routes} />
