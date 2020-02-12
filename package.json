@@ -14,8 +14,8 @@
     "dist-no-minified:build": "parcel build src/index.html --out-dir dist-no-minified --no-minify --public-url ./",
     "lint": "eslint --ignore-path .gitignore **/*.{js,svelte}",
     "screenshot": "am-mocktimes--screenshot",
-    "storybook": "start-storybook -p 6006 -s ./src",
-    "build-storybook": "build-storybook -s ./src"
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
