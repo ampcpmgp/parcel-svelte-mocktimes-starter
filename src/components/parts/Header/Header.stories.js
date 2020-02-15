@@ -1,4 +1,3 @@
-import { action } from '@storybook/addon-actions'
 import { linkTo } from '@storybook/addon-links'
 import { withKnobs, text } from '@storybook/addon-knobs'
 import Header from './Header.svelte'
@@ -20,5 +19,5 @@ export const Emoji = () => ({
   props: {
     text: text('text', '😀 😎 👍 💯'),
   },
-  on: { click: action('clicked') },
+  on: { click: console.info },
 })
