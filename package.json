@@ -2,7 +2,7 @@
   "name": "parcel-svelte-mocktimes-starter",
   "version": "1.0.0",
   "scripts": {
-    "start": "parcel mock/*.html",
+    "start": "parcel mock/testbed/*.html",
     "test": "ava",
     "test:watch": "npm run test -- --watch",
     "dist": "run-s dist:*",
@@ -26,7 +26,7 @@
     "@storybook/addon-viewport": "^5.3.12",
     "@storybook/addons": "^5.3.12",
     "@storybook/svelte": "^5.3.12",
-    "am-mocktimes": "^3.0.1",
+    "am-mocktimes": "^3.0.3",
     "am-mocktimes-addon-screenshot": "^0.1.2",
     "ava": "^3.2.0",
     "babel-loader": "^8.0.6",
