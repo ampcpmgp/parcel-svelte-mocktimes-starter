@@ -1,5 +1,5 @@
 settings:
-  url: _mock.html
+  url: mock.html
 default page:
   func: [page, /]
   change greeting name after 1000ms:
