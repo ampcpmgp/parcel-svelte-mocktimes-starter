@@ -16,3 +16,8 @@ npm i
 npm start
 npm run storybook
 ```
+
+### Generate parts template
+```shell
+npx am-parts -n __NAME__
+```
