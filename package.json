@@ -15,7 +15,7 @@
     "lint": "eslint --ignore-path .gitignore **/*.{js,svelte}",
     "format": "prettier --ignore-path .gitignore --write **/*.{js,svelte}",
     "screenshot": "am-mocktimes--screenshot",
-    "storybook": "start-storybook -p 6006 -s ./node_modules/modern-css-reset/dist",
+    "storybook": "start-storybook -p 6006 -s ./node_modules",
     "build-storybook": "build-storybook"
   },
   "devDependencies": {
