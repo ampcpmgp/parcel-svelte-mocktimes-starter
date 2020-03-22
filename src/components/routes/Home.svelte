@@ -1,6 +1,5 @@
 <script>
-  import { name, greeting } from '../../states/greetings'
+  import Content from '../containers/Content/Home'
 </script>
 
-<h1>{$greeting}</h1>
-<input bind:value={$name} />
+<Content />
