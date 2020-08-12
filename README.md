@@ -1,3 +1,5 @@
+# Parcel & Svelte & am-mocktimes Starter kit
+
 ## Setup
 
 ```shell
@@ -10,14 +12,15 @@ npm i
 * edit `README.md`
 * edit `src/index.html` title
 
-
 ## Start
+
 ```shell
-npm start
+npm start # Open http://localhost:1234/patterns.html
 npm run storybook
 ```
 
 ### Generate parts template
+
 ```shell
 npx am-parts -n __NAME__
 ```
