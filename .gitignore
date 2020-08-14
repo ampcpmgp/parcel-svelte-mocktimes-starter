@@ -5,7 +5,7 @@ node_modules/
 .am-mocktimes-img/
 
 # parcel-bundler
-.cache/
+.parcel-cache/
 dist/
 dist-no-minified/
 
