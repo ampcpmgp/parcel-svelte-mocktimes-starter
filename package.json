@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "modern-css-reset": "^1.1.0",
-    "svelte": "^3.29.7",
+    "svelte": "^3.18.2",
     "svelte-spa-router": "^2.0.0"
   },
   "browserslist": [
