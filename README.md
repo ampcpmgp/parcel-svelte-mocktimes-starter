@@ -1,4 +1,4 @@
-* Change Parcel to Vite
+**Change Parcel to Vite**
 https://github.com/ampcpmgp/vite-svelte-mocktimes-starter
 
 # Parcel & Svelte & am-mocktimes Starter kit
